@@ -1,0 +1,25 @@
+.search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+}
+
+.input {
+  flex: 1;
+  border: 1px solid #d3d7de;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 14px;
+}
+
+.clear {
+  border: 1px solid #d3d7de;
+  background: #fff;
+  border-radius: 8px;
+  width: 34px;
+  height: 34px;
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+}
